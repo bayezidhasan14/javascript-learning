@@ -32,17 +32,25 @@ let valueInNumber1 = String(valueInNumber)
 // true => 1; false => 0
 // notes
 
-let  age = 19
+// let  age = 19
 
 
-if ( age >= 18) {
-    console.log("welcome to xnxx");
-} else if (age <= 18) {
-    console.log("drink milk");
-}
+// if ( age >= 18) {
+//     console.log("welcome to xnxx");
+// } else if (age <= 18) {
+//     console.log("drink milk");
+// }
 
 
-let isfucking = undefined
+// let isfucking = undefined
 
-let booleanIsLoggedIn = Boolean(isfucking)
-console.log(booleanIsLoggedIn);
+// let booleanIsLoggedIn = Boolean(isfucking)
+// console.log(booleanIsLoggedIn);
+
+let value = 3
+let negValue = ++value
+let k = value
+console.log(negValue);
+
+console.log(k);
+console.log(3+4*5%3);
